@@ -10,7 +10,7 @@ jupytext==1.14.1
 matplotlib==3.5.2
 myst-nb==0.13.2
 myst-parser==0.15.2
-nbconvert==6.5.0
+nbconvert==7.17.0
 numpy==1.23.1
 pandas==1.4.3
 pillow==9.3.0
